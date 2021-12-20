@@ -16,7 +16,7 @@ We suggest cloning this repository to your local machine, but you can also go to
 | [Week 3 Colab]() | [Week 3 Github](https://github.com/UChicago-Computational-Content-Analysis/Homework-Notebooks/blob/main/week-3/3-Reliability.ipynb) |
 | [Week 4 Colab]() | [Week 4 Github](https://github.com/UChicago-Computational-Content-Analysis/Homework-Notebooks/blob/main/week-4/4-Discovering-Patterns-Clusters-and-Topics.ipynb) |
 | [Week 5 Colab]() | [Week 5 Github](https://github.com/UChicago-Computational-Content-Analysis/Homework-Notebooks/blob/main/week-5/5-Vector-Space-Word-Embeddings.ipynb) |
-| [Week 6 Colab]() | [Week 6 Github](https://github.com/UChicago-Computational-Content-Analysis/Homework-Notebooks/blob/main/week-6/6-Deep-Neural-Nets-and-Text.ipynb) |
+| [Week 6 Colab](https://colab.research.google.com/drive/1FxIxYdlo3UlZbBu-gI8sPLa8XRBkdMET) | [Week 6 Github](https://github.com/UChicago-Computational-Content-Analysis/Homework-Notebooks/blob/main/week-6/6-Deep-Neural-Nets-and-Text.ipynb) |
 | [Week 7 Colab]() | [Week 7 Github](https://github.com/UChicago-Computational-Content-Analysis/Homework-Notebooks/blob/main/week-7/7-Classifying-Meanings-and-Documents.ipynb) |
 | [Week 8 Colab]() | [Week 8 Github](https://github.com/UChicago-Computational-Content-Analysis/Homework-Notebooks/blob/main/week-8/8-Text-Generation.ipynb) |
 | [Week 9 Colab]() | [Week 9 Github](https://github.com/UChicago-Computational-Content-Analysis/Homework-Notebooks/blob/main/week-9/9-Beyond-Text.ipynb) |
